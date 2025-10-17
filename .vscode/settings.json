@@ -1,6 +1,6 @@
 {
     // ================== EDITOR ==================
-    "editor.fontFamily": "JetBrains Mono, monospace",
+    "editor.fontFamily": "Fira Code",
     "editor.fontSize": 14,
     "editor.lineHeight": 2.5,
     "editor.fontLigatures": true,
@@ -27,8 +27,6 @@
     "files.autoSave": "afterDelay",
     "files.trimTrailingWhitespace": true,
     "files.insertFinalNewline": true,
-    // ================== UI / WORKBENCH ==================
-    "workbench.colorTheme": "Aura Dracula Spirit (Soft)",
     "workbench.editor.labelFormat": "short",
     "workbench.statusBar.visible": false,
     "workbench.sideBar.location": "right",
@@ -56,4 +54,5 @@
         ".activitybar.left, .activitybar.right": "background-color: #1e1e2f !important; border-bottom: 1px solid #3d3d5c; box-shadow: 0 1px 4px rgba(0,0,0,0.4);"
     },
     "workbench.iconTheme": "symbols",
+    "workbench.colorTheme": "Aura Dracula Spirit (Soft)",
 }
