@@ -21,7 +21,7 @@
   "explorer.confirmDelete": false,
   "explorer.decorations.badges": false,
   "git.decorations.enabled": false,
-  "window.zoomLevel": 2,
+  "window.zoomLevel": 1,
   "window.titleBarStyle": "custom",
   "custom-ui-style.electron": {
     "titleBarStyle": "hiddenInset",
@@ -82,8 +82,7 @@
   "editor.lineHeight": 2.5,
   "editor.fontLigatures": true,
   "editor.rulers": [
-    80,
-    120
+    80
   ],
   "editor.tokenColorCustomizations": {
     "textMateRules": [
@@ -132,5 +131,6 @@
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.smoothScrolling": true,
   "window.commandCenter": false,
-  "workbench.layoutControl.enabled": false
+  "workbench.layoutControl.enabled": false,
+  "editor.wordWrap": "wordWrapColumn"
 }
